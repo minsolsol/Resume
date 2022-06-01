@@ -3,9 +3,8 @@
 
 <img src=RESUME.jpg height=170 witht=170>
 
-# 인적사항      
-
-:tulip: 이름: 김민솔 MinsolKim   
+# :tulip: 인적사항      
+이름: 김민솔 MinsolKim   
 
 소속 : 한림대학교 소프트웨어융합   
 전공 : 빅데이터전공        
