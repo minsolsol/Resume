@@ -2,7 +2,8 @@
 ---
 
 <img src=RESUME.jpg height=170 witht=170>
-# 인적사항    
+
+# 인적사항      
 
 :tulip: 이름: 김민솔 MinsolKim   
 
@@ -11,7 +12,7 @@
 
 
 -----
-사용가능 프로그래밍 언어
+# 사용가능 프로그래밍 언어   
 1. c
 2. java
 3. python
