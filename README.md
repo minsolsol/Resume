@@ -2,7 +2,7 @@
 ---
 
 <img src=RESUME.jpg height=170 witht=170>
-김민솔
+김민솔 MinsolKim
 
 
 ---
