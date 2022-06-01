@@ -4,7 +4,8 @@
 <img src=RESUME.jpg height=170 witht=170>
 
 # 🌷 인적사항      
-이름: 김민솔 MinsolKim   
+이름 : 김민솔 MinsolKim      
+생년월일 : 2000.03.06   
 
 소속 : 한림대학교 소프트웨어융합   
 전공 : 빅데이터전공        
