@@ -2,13 +2,12 @@
 ---
 
 <img src=RESUME.jpg height=170 witht=170>
-:tulip:김민솔 MinsolKim  
-
-
----
+:tulip: 이름: 김민솔 MinsolKim  
 소속 : 한림대학교 소프트웨어융합    
 전공 : 빅데이터전공
 
+
+-----
 사용가능 프로그래밍 언어
 1. c
 2. java
